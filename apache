@@ -1,0 +1,2 @@
+FROM apache
+CPOY . /usr/share/doc/apache2/README.Debian.gz
